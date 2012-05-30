@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introductie}{}
+\BOOKMARK [2][-]{subsection.1.1}{Over Kile}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Wat is LaTeX?}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Hoe spreek je het uit?}{section.1}
+\BOOKMARK [2][-]{subsection.1.4}{Verschillende LaTeX compilers}{section.1}
+\BOOKMARK [1][-]{section.2}{Belangrijkste features}{}
+\BOOKMARK [2][-]{subsection.2.1}{QuickStart Wizard}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Voorgedefini\353erde templates}{section.2}
+\BOOKMARK [1][-]{section.3}{Code afhandeling}{}
+\BOOKMARK [2][-]{subsection.3.1}{Syntax markering}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{Automatische code-aanvulling}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Automatische omgeving-aanvulling}{subsection.3.2}
+\BOOKMARK [2][-]{subsection.3.3}{LaTeX commando's}{section.3}
+\BOOKMARK [2][-]{subsection.3.4}{Afkortingen}{section.3}
+\BOOKMARK [2][-]{subsection.3.5}{Speciale tekens}{section.3}
+\BOOKMARK [1][-]{section.4}{Mail instellen met Mutt}{}
+\BOOKMARK [2][-]{subsection.4.1}{Installatie}{section.4}
+\BOOKMARK [2][-]{subsection.4.2}{Configuratie}{section.4}
+\BOOKMARK [1][-]{section.5}{Versiebeheer met GIT}{}
+\BOOKMARK [2][-]{subsection.5.1}{Installatie}{section.5}
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Instellen van SSH sleutel}{subsection.5.1}
+\BOOKMARK [2][-]{subsection.5.2}{Persoonlijke info configureren}{section.5}
+\BOOKMARK [2][-]{subsection.5.3}{Aanmaken van een repository folder}{section.5}
+\BOOKMARK [2][-]{subsection.5.4}{Een README aanmaken}{section.5}
+\BOOKMARK [1][-]{section.6}{Bash script}{}

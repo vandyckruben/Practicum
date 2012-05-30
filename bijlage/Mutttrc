@@ -1,0 +1,14 @@
+set imap_user = “vandyckruben@gmail.com”
+set imap_pass = “”
+
+set smtp_url = “smtp://vandyckruben@smtp.gmail.com:587/”
+set smtp_pass = “”
+set from = “vandyckruben@gmail.com”
+set realname = “Ruben Van Dyck”
+
+set folder = “imaps://imap.gmail.com:993”
+set spoolfile = “+INBOX”
+set postponed=”+[Gmail]/Drafts”
+set header_cache=~/.mutt/cache/headers
+set message_cachedir=~/.mutt/cache/bodies
+set certificate_file=~/.mutt/certificates

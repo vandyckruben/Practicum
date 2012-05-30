@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: Kile.aux
+The style file: plain.bst
+Database file #1: KileBib.bib
+I was expecting a `,' or a `}'---line 8 of file KileBib.bib
+ : @misc{GitHub 
+ :              Setup,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 15 of file KileBib.bib
+ : @misc{GitHub 
+ :              Repo,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 29 of file KileBib.bib
+ : @misc{Symbol 
+ :              List,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "GitHubSetup"
+Warning--I didn't find a database entry for "GitHubRepo"
+Warning--I didn't find a database entry for "WikiBooks"
+Warning--I didn't find a database entry for "Symbollist"
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            511 strings with 4138 characters,
+and the built_in function-call counts, 228 in all, are:
+= -- 20
+> -- 7
+< -- 0
++ -- 3
+- -- 2
+* -- 8
+:= -- 44
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 7
+empty$ -- 23
+format.name$ -- 2
+if$ -- 47
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 3
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 5
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 2
+width$ -- 2
+write$ -- 12
+(There were 3 error messages)

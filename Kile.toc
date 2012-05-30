@@ -1,0 +1,26 @@
+\select@language {dutch}
+\contentsline {section}{\numberline {1}Introductie}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Over Kile}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Wat is \textlatin {\LaTeX }?}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Hoe spreek je het uit?}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Verschillende LaTeX compilers}{3}{subsection.1.4}
+\contentsline {section}{\numberline {2}Belangrijkste features}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}QuickStart Wizard}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Voorgedefini\"eerde templates}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Code afhandeling}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Syntax markering}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Automatische code-aanvulling}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Automatische omgeving-aanvulling}{6}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}$\textlatin {\LaTeX }$ commando's}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Afkortingen}{8}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Speciale tekens}{9}{subsection.3.5}
+\contentsline {section}{\numberline {4}Mail instellen met Mutt}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Installatie}{10}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Configuratie}{10}{subsection.4.2}
+\contentsline {section}{\numberline {5}Versiebeheer met GIT}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Installatie}{12}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Instellen van SSH sleutel}{12}{subsubsection.5.1.1}
+\contentsline {subsection}{\numberline {5.2}Persoonlijke info configureren}{14}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Aanmaken van een repository folder}{14}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Een README aanmaken}{15}{subsection.5.4}
+\contentsline {section}{\numberline {6}Bash script}{16}{section.6}
